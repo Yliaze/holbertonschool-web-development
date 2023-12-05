@@ -1,6 +1,6 @@
 # HTML/CSS Basics
 
-  ![W3C Validator](https://img.shields.io/badge/W3C-Validator-green.svg) ![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
 
 ## Project Overview
 
