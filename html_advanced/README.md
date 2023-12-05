@@ -26,7 +26,7 @@ Welcome to the HTML/CSS Basics project! In this journey, you'll dive into the co
 
 ## Reference image
 
-![In this and coming projects, we will implement from scratch a webpage from a designer file.](DesignerFile.jpg)
+![In this and coming projects, we will implement from scratch a webpage from a designer file.](Images/DesignerFile.jpg)
 
 ## Author
 - [Benjamin Alazet](https://github.com/Yliaze) - Holberton School
