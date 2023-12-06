@@ -29,7 +29,7 @@ Welcome to the CSS, Advanced project! In this undertaking, you will delve into t
 
 ## Reference image
 
-![In this and coming projects, we will implement from scratch a webpage from a designer file.](./Images/DesignerFile.jpg)
+![In this and coming projects, we will implement from scratch a webpage from a designer file.](Images/DesignerFile.jpg)
 
 ## Author
 - [Benjamin Alazet](https://github.com/Yliaze) - Holberton School
